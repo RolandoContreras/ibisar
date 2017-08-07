@@ -24,9 +24,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://localhost/ibisar/';
-//$config['base_url'] = 'http://www.yourbitshares.com/site';
-
-
 /*
 |--------------------------------------------------------------------------
 | Index File

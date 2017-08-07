@@ -3,7 +3,7 @@
 class Dashboard extends CI_Controller {
     public function __construct() {
         parent::__construct();     
-//        $this->load->model('users_model','obj_user');
+        $this->load->model('users_model','obj_user');
     }
     
     public function index(){    
